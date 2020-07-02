@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166319189054",
+    "firebase_url": "https://deepdive-7370e.firebaseio.com",
+    "project_id": "deepdive-7370e",
+    "storage_bucket": "deepdive-7370e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166319189054:android:a128dc17609ff9f13a356f",
+        "android_client_info": {
+          "package_name": "de.chillercode.deepdive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166319189054-m0j0v9j57bmsn4sd7l5rofp0tk8t2ft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_JDRlQZLEah9nVyJ-Lgvv_m7v6mWZv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166319189054-m0j0v9j57bmsn4sd7l5rofp0tk8t2ft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
