@@ -34,11 +34,7 @@
             android:name="de.chillercode.deepdive.ui.notifications.NotificationsDetailFragment"
             android:label="NotificationsDetailFragment"
             tools:layout="@layout/fragment_notifications_detail" >
-            <action
-                android:id="@+id/action_notificationsDetailFragment_to_navigation_notifications"
-                app:destination="@id/navigation_notifications"
-                app:popUpTo="@id/navigation_notifications"
-                app:popUpToInclusive="false" />
+
         </fragment>
     </navigation>
 
